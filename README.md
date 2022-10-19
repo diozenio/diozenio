@@ -1,5 +1,5 @@
 
-# :wave: Hello World, I'm Dionísio :wave:
+# :wave: Hello World, I'm Dionísio Barbosa :wave:
 
 ### :space_invader: &nbsp;About Me
 
