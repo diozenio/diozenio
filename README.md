@@ -7,7 +7,7 @@
 &nbsp;&nbsp;&nbsp;:man_technologist: &nbsp;Mobile and Front-End developer.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Love for programming and games.\
 &nbsp;&nbsp;&nbsp;:star: &nbsp;My objective is to make your project beautiful.\
-&nbsp;&nbsp;&nbsp;:calendar: &nbsp;Coding since 2019.\
+&nbsp;&nbsp;&nbsp;:calendar: &nbsp;Coding since 2019.
 
 
 <p align="center">
