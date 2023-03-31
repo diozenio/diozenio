@@ -4,7 +4,7 @@
 ### :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;:notebook: &nbsp;Currently studying at [IFAL  (Instituto Federal de Alagoas)](https://www2.ifal.edu.br/campus/arapiraca)\
-&nbsp;&nbsp;&nbsp;:man_technologist: &nbsp;Mobile and Front-End developer.\
+&nbsp;&nbsp;&nbsp;:man_technologist: &nbsp;Frontend developer.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Love for programming and games.\
 &nbsp;&nbsp;&nbsp;:star: &nbsp;My goal is to make your project beautiful.\
 &nbsp;&nbsp;&nbsp;:calendar: &nbsp;Coding since 2019.
