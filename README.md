@@ -6,7 +6,7 @@
 :notebook: Currently studying at [IFAL  (Instituto Federal de Alagoas)](https://www2.ifal.edu.br/campus/arapiraca)\
 :man_technologist: Frontend developer.\
 :heartbeat: Love for programming and games.\
-:star: My goal is to make your project real.\
+:star: My goal is to make projects real.\
 :calendar: Coding since 2019.
 
 ### 📬 Contact
